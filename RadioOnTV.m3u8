@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300000,AVERAGE-BANDWIDTH=300000,CODECS="avc1.42c015,mp4a.40.2",FRAME-RATE=25.000
+https://api.aiiptv.click/tenten/Youtube/Group.php?id=@radioontv&type=stream
