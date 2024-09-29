@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio Stream",DEFAULT=YES,AUTOSELECT=YES,URI="https://live2onsport.vtvcab.vn/K_CINE_7777/a0_index.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1280x720,AUDIO="audio"
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1280x720
+http://zone.myftp.org:8181/2K-LIFE3/index.m3u8?token=DKMcut
