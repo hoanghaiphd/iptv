@@ -1,6 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXTINF: 6,
-https://demo.aiiptv.click/SuuTam/Video2Hinh/UpdateChannel.mp4
-#EXTINF:-1,
-https://tv.TruyenHinh.Click/CoBan/vtv5hdtnb/TuyetDoiKhongKinhDoanh
+#EXTINF: 9, Video1
+https://tv.truyenhinh.click/proxy.php?urlhttps://demo.aiiptv.click/SuuTam/Video2Hinh/UpdateChannel.mp4
+#EXTINF:-1, Video2
+https://tv.truyenhinh.click/proxy.php?urlhttps://tv.TruyenHinh.Click/CoBan/vtv5hdtnb/TuyetDoiKhongKinhDoanh
