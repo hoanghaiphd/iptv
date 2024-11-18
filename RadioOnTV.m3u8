@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF: 6, StartVideo
+#EXTINF: 6,
 https://demo.aiiptv.click/SuuTam/Video2Hinh/UpdateChannel.mp4
-#EXTINF:-1, Content
+#EXTINF:-1,
 https://tv.TruyenHinh.Click/CoBan/vtv5hdtnb/TuyetDoiKhongKinhDoanh
