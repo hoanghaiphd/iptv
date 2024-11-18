@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://api.aiiptv.click/tenten/Youtube/Group.php?id=@radioontv&type=stream
+#EXTINF:6,
+https://demo.aiiptv.click/SuuTam/Video2Hinh/UpdateChannel.mp4;
+#EXTINF:-1,
+https://tv.TruyenHinh.Click/CoBan/vtv5hdtnb/TuyetDoiKhongKinhDoanh
