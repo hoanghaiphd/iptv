@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio Stream",DEFAULT=YES,AUTOSELECT=YES,URI="https://live2onsport.vtvcab.vn/BONGDA_HD/a0_index.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio Stream",DEFAULT=YES,AUTOSELECT=YES,URI="/a0_index.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1280x720,AUDIO="audio"
-https://live2onsport.vtvcab.vn/BONGDA_HD/v3_index.m3u8
+/v3_index.m3u8
